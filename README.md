@@ -22,3 +22,6 @@ Setelah persiapan di atas selesai, Anda tinggal memasang skripnya dengan satu ka
 2. Browser Anda akan otomatis membuka halaman konfirmasi pemasangan dari Tampermonkey.
 3. Anda akan melihat tombol **Install** (Pasang) di bagian kiri atas. Silakan klik tombol **Install** tersebut.
 4. Selesai! Sekarang silakan buka atau segarkan (*refresh*) halaman SIPD Anda. Skrip pembantu akan langsung aktif dan siap digunakan secara otomatis.
+
+### Video Cara install
+https://youtu.be/TDz5Ev6Nhnw
