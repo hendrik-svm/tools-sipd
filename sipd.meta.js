@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tools-SIPD
 // @namespace    sipd
-// @version      20260614.0000
+// @version      20261113.0000
 // @author       hendrik svm
 // @match        *://*.kemendagri.go.id/*
 // @updateURL    https://raw.githubusercontent.com/hendrik-svm/tools-sipd/main/sipd.meta.js
